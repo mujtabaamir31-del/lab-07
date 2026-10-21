@@ -1,11 +1,11 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mujtaba Amir`
+- **CCID:** `mamir3`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+Melody Morris: Helped fix bug with loop to clear driver list. Said that when an item is removed the index of everything shifts which helped fix implementation.
